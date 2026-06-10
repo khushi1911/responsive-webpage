@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 0 50px;
-  background-color: #faf9f6;
+  background-color: #FF97D0;
   display: flex;
   flex-direction: column;
   min-height: 95vh;
@@ -16,7 +16,7 @@ h1 {
 
 footer {
   text-align: right;
-  color: midnightblue;
+  color: #FF62BB;
 }
 
 .tile-image {
@@ -38,7 +38,7 @@ footer {
 }
 
 .creative {
-  color: midnightblue;
+  color: #FF62BB;
 }
 
 @media (max-width: 680px) {
